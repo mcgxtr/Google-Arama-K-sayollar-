@@ -1,4 +1,4 @@
-# Google-Arama-K-sayollar-
+# Google-Arama-Kisayollar-
 Google arama parametleri
 
 # Google Arama Parametreleri 
