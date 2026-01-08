@@ -1,6 +1,3 @@
-# Google-Arama-Kisayollar-
-Google arama parametleri
-
 # Google Arama Parametreleri 
 
 1. `"kelime kelime"` → Birebir ifade  
